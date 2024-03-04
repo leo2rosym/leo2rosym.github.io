@@ -1,10 +1,10 @@
-# Rock Chen
+# Leo & Mia
 
 ### 爱好？
 喜欢编程，喜欢学习，喜欢不能当饭吃的哲学，喜欢写被现代打印代替的钢笔字
 
 ### 博客？
-Github: https://github.com/chansee97
+Github: https://github.com/leo2rosym/leo2rosym.github.io.git
 
 ### 我的技能？
 
@@ -41,9 +41,9 @@ Github: https://github.com/chansee97
 <img src="https://img.shields.io/endpoint?style=social&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D17109%26project%3D%26in%3D0">
 </div>
 
-### 我是谁？
+### 我们是谁？
 
-我是 Rock Chen, 一个前端
+We are Leo & Mia
 
 联系我：
-- 📨 chen.dev@foxmail.com
+- 📨 leo2rosym@163.com
