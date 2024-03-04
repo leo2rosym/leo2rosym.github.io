@@ -1,7 +1,7 @@
 # Leo & Mia
 
 ### 爱好？
-喜欢编程，喜欢学习，喜欢不能当饭吃的哲学，喜欢写被现代打印代替的钢笔字
+anything
 
 ### 博客？
 Github: https://github.com/leo2rosym/leo2rosym.github.io.git
