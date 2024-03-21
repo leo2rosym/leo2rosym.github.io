@@ -1,12 +1,10 @@
 # Leo & Mia
 
-### 爱好？
-anything
+### What We Like
+Anything
 
-### 博客？
-Github: https://github.com/leo2rosym/leo2rosym.github.io.git
 
-### 我的技能？
+### Skills List
 
 <div class="skill-wrapper">
   <img src="https://img.shields.io/badge/Html-E34F26?style=for-the-badge&logo=html5&logoColor=white"></img>
@@ -41,9 +39,9 @@ Github: https://github.com/leo2rosym/leo2rosym.github.io.git
 <img src="https://img.shields.io/endpoint?style=social&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D17109%26project%3D%26in%3D0">
 </div>
 
-### 我们是谁？
+### Our Goals
 
-We are Leo & Mia
+Make something happy!
 
 联系我：
 - 📨 leo2rosym@163.com
