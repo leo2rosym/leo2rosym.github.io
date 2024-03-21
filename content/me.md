@@ -43,5 +43,5 @@ Anything
 
 Make something happy!
 
-联系我：
+Contact US:
 - 📨 leo2rosym@163.com
