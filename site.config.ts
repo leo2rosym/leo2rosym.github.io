@@ -80,17 +80,7 @@ export const projectList = [
         name: 'Nuxt Blog',
         desc: 'My blog site, base on Nuxt',
         path: 'https://github.com/leo2rosym/leo2rosym.github.io.git',
-      },
-      {
-        name: 'Nova Admin',
-        desc: 'a complete admin template',
-        path: 'https://github.com/chansee97/nova-admin',
-      },
-      {
-        name: 'Nova Admin Nest',
-        desc: 'The nest backend for nova admin',
-        path: 'https://github.com/chansee97/nove-admin-nest',
-      },
+      }
     ],
   },
   {
@@ -99,7 +89,7 @@ export const projectList = [
       {
         name: 'Virtuoso',
         desc: 'My simply vue starter',
-        path: 'https://github.com/chansee97/virtuoso',
+        path: 'https://github.com/leo2rosym/leo2rosym.github.io.git',
       },
     ],
   },
