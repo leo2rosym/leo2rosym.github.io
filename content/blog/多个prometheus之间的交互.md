@@ -5,6 +5,7 @@ tags:
   - kubernetes
 title: 多个prometheus之间的交互
 ---
+![image.png](https://res.cloudinary.com/leo2rosym/image/upload/v1712038519/2024/04/n5ot6snk3i0ej125p4ta.gif)
 
 ## 环境提要：
 有两个Prometheus Server:
