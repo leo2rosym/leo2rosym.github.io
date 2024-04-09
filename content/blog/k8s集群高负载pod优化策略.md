@@ -67,11 +67,11 @@ print("All evicted pods have been deleted.")
 ```
 
 ### 通过污点容忍策略将高负载的pod调度到单独的一组cpu优化型node节点
-| _kubectl label nodes _<node-name>_ node-role=cpu-worker
+```
+kubectl label nodes <node-name> node-role=cpu-worker
 
-kubectl taint node _<node-name>_ node-role=cpu-worker:NoSchedule_ |
-| --- |
-
+kubectl taint node <node-name> node-role=cpu-worker:NoSchedule
+```
 ```
 apiVersion: apps/v1
 kind: Deployment
